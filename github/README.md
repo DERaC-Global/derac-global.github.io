@@ -1,8 +1,3 @@
----
-layout: default
-title: Github の使い方
----
-
 # Github の使い方
 
 ## ドキュメント
